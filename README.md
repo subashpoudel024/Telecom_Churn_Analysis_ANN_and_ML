@@ -4,6 +4,7 @@ whether the customer is likely to leave the service or not.
 The dataset is extracted from: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 Content:
+
       -Each row represents a customer, each column contains customer’s attributes described on the column Metadata.
 
 The data set includes information about:
@@ -19,23 +20,27 @@ The data set includes information about:
       - Demographic info about customers – gender, age range, and if they have partners and dependents.
       
 Target:
+
       - The 'Churn' column is our target.
 
 
 
 
-I've used the following models:
-1. Artificial Neural Network(ANN)
-2. Machine Learning Models:
-      - KNN Neighbours
-      - Logistic Regression
-      - Naive Bayes Classifier
-      - Decision Tree Classifier
-      - Random Forest Classifier
+I've used the following models: 
+
+    1. Artificial Neural Network(ANN)
+    2. Machine Learning Models:
+    
+          - KNN Neighbours
+          - Logistic Regression
+          - Naive Bayes Classifier
+          - Decision Tree Classifier
+          - Random Forest Classifier
 
 Following steps are included in the project:
-1. Data collection and Pre-Processing
-2. Exploratory Data Analysis(EDA)
-3. Model Training
-4. Model Evaluation
-5. Model Prediction
+
+    1. Data collection and Pre-Processing
+    2. Exploratory Data Analysis(EDA)
+    3. Model Training
+    4. Model Evaluation
+    5. Model Prediction
