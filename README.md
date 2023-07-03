@@ -1,5 +1,5 @@
 This is the project of Telecom Churn Analysis where i've built a model to predict 
-whether the customer is likely to leave the services or not.
+whether the customer is likely to leave the service or not.
 
 
 I've used the following models:
