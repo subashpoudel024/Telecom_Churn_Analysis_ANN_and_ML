@@ -29,8 +29,9 @@ Target:
 I've used the following models: 
 
     1. Artificial Neural Network(ANN)
-    2. Machine Learning Models:
+
     
+    2. Machine Learning Models:
           - KNN Neighbours
           - Logistic Regression
           - Naive Bayes Classifier
